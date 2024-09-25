@@ -1,7 +1,9 @@
 # SQL-Full-Revision
 SQL Full Revision: From BEGINNER LEVEL,INTERMEDIATE LEVEL,ADVANCED LEVEL,&amp; Pro LEVEL,  Exercices in tables "customers" & "employee" from  "toys_and_models" dataset.
-![Texte alternatif…](![image](https://github.com/user-attachments/assets/140e2098-0868-469c-819c-8d8b4d839b3e)
+
+![SQL Notebook Preview](![image](https://github.com/user-attachments/assets/e4e28e03-8fa3-4b25-997c-4ecf039c20cb)
 )
+
 
 ### Overview
 This project contains a comprehensive SQL revision notebook that demonstrates key SQL skills with questions and answer. It is designed to cover everything from fundamental concepts to more advanced topics.
