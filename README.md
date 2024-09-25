@@ -1,2 +1,2 @@
 # SQL-Full-Revision
-SQL Full Revision: From BEGINNER LEVEL,INTERMEDIATE LEVEL,ADVANCED LEVEL,&amp; Pro LEVEL,  project showcasing advanced SQL queries using real-world datasets. Includes concepts such as window functions, joins, subqueries, and ranking.
+SQL Full Revision: From BEGINNER LEVEL,INTERMEDIATE LEVEL,ADVANCED LEVEL,&amp; Pro LEVEL,  Exercices in tables "customers" & "employee" from  "toys_and_models" dataset.
